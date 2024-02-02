@@ -1,4 +1,6 @@
-# qrgenerator
+# qrgenerator a flutter project
+#USE flutter 3.13.0 version -- USE dart 3.1.0 version --
+
 
 A new Flutter project.
 
